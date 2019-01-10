@@ -2,9 +2,9 @@
 
 This is a repository for demonstrating merge conflicts - to support my [medium blog post](https://medium.com/@RedRoxProjects). 
 
-* First and foremosrtwe learnt about using the GitHub Web UI through creating a repository and handling a merge conflict from a Pull Request. 
+* First and foremost learnt about using the GitHub Web UI through creating a repository and handling a merge conflict from a Pull Request. 
 
-* Secondly we cover using the command line and how to handle merge conflicts between local and remote repositories. :sparkles:
+* Second step we cover using the command line and how to handle merge conflicts between local and remote repositories. :sparkles:
 
 * Third and last we will take a quick look at merging using the GitHub Desktop Application :+1:
 
